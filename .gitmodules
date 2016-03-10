@@ -1,0 +1,3 @@
+[submodule "Libs/PLStreamingKit"]
+	path = Libs/PLStreamingKit
+	url = https://github.com/pili-engineering/PLStreamingKit.git
