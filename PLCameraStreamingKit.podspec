@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'Pod/Classes/*.h'
   s.source_files = 'Pod/Classes/*.h', 'Pod/Classes/*.m'
 
-  s.dependency 'PLStreamingKit', '~> 1.1.5'
+  #s.dependency 'PLStreamingKit', '~> 1.1.5'
   s.frameworks = ['UIKit', 'AVFoundation', 'CoreGraphics', 'CFNetwork', 'AudioToolbox', 'CoreMedia', 'VideoToolbox']
   s.libraries = 'z', 'c++'
 
